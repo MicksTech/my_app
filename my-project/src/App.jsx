@@ -1,6 +1,5 @@
 import "./App.css";
 import { useEffect } from "react";
-import React from "react";
 import Swal from "sweetalert2";
 import officeBg from "./assets/Office-bg.jpg";
 import UserImg from "./assets/User-img.jpg";
